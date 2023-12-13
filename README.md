@@ -1,3 +1,11 @@
+Overview
+• The goal was to provide the user with customisable buttons to execute the desired
+commands via ADB (Android Debug Bridge), Serial Port, Sytem commands etc.
+• The button settings are imported via JSON file.
+• The tool also provides the option to capture logs via ADB / Serial Ports.
+• This was developed as a hobby project while my time at HARMAN, with the goal to
+increase the team's efficieny while debugging on Automotive hardware.
+
 UI Screen Shots
 
 Tab for ADB and Windows system command buttons
